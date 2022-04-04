@@ -20,4 +20,5 @@ Set up GOOGLE_APPLICATION_CREDENTIALS envirenment variable:<br />
     --runner=DataflowRunner \
     --region=us-central1"***
   
- 
+ Dataflow run:
+ ![alt text](BigQueryDataflowCloudSQL.png)
