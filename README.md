@@ -11,13 +11,13 @@ Run:<br />
 Set up GOOGLE_APPLICATION_CREDENTIALS envirenment variable:<br />
   ***export GOOGLE_APPLICATION_CREDENTIALS="<your path for the key>"***
   
- Run the pipeline:
-  mvn -Pdataflow-runner compile exec:java \
+ Run the pipeline:<br />
+  ***mvn -Pdataflow-runner compile exec:java \
     -Dexec.mainClass=com.click.example.BikeTrip \
     -Dexec.args="--project=${projrct_id} \
     --gcpTempLocation=gs://${bucket_name}/temp/ \
     --tempLocation=gs://${bucket_name}/temp/ \
     --runner=DataflowRunner \
-    --region=us-central1"
+    --region=us-central1"***
   
  
