@@ -195,6 +195,8 @@
     <orderEntry type="library" name="Maven: org.ow2.asm:asm-analysis:9.2" level="project" />
     <orderEntry type="library" name="Maven: com.google.apis:google-api-services-sqladmin:v1beta4-rev20220215-1.32.1" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.21" level="project" />
+    <orderEntry type="library" name="Maven: com.google.cloud.sql:postgres-socket-factory:1.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.postgresql:postgresql:42.3.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.beam:beam-runners-portability-java:2.37.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.beam:beam-runners-java-fn-execution:2.37.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.beam:beam-model-fn-execution:2.37.0" level="project" />
